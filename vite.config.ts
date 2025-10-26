@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => {
         host: '0.0.0.0',
       },
       plugins: [react()],
+      base: '/csmi17-2/',
       resolve: {
         alias: {
           '@': path.resolve(__dirname, '.'),
