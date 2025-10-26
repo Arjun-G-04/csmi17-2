@@ -1,0 +1,5 @@
+{
+  "name": "Timetable Generator",
+  "description": "A web application that generates timetables using constraint satisfaction problem solvers. Users can define courses, teachers, rooms, and constraints, then choose between backtracking with heuristics or forward checking to find a valid schedule.",
+  "requestFramePermissions": []
+}
